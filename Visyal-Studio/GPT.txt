@@ -1,0 +1,45 @@
+Here are some of the best free online courses to learn C language:
+
+1. **Coursera: "C for Everyone: Programming Fundamentals"** 
+   - Offered by the University of California, Santa Cruz.
+   - Covers basics of C programming.
+   - Includes video lectures, quizzes, and assignments.
+   - [Course Link](https://www.coursera.org/learn/c-for-everyone)
+
+2. **edX: "Introduction to Programming in C"**
+   - Provided by Dartmouth College.
+   - Focuses on fundamental concepts in C programming.
+   - Includes hands-on practice through labs and projects.
+   - [Course Link](https://www.edx.org/course/c-programming-dartmouth-imtx-c-programming)
+
+3. **Udemy: "C Programming For Beginners"**
+   - Designed for complete beginners.
+   - Covers basic to advanced topics in C programming.
+   - Includes video lectures and downloadable resources.
+   - [Course Link](https://www.udemy.com/course/c-programming-for-beginners/)
+
+4. **Codecademy: "Learn C"**
+   - Interactive course with exercises and projects.
+   - Covers syntax, data structures, and more.
+   - Suitable for beginners.
+   - [Course Link](https://www.codecademy.com/learn/learn-c)
+
+5. **SoloLearn: "Learn C Programming"**
+   - Interactive learning platform with quizzes and code challenges.
+   - Covers basic to advanced topics.
+   - Available as a mobile app for learning on the go.
+   - [Course Link](https://www.sololearn.com/Course/C/)
+
+6. **GeeksforGeeks: "C Programming Language"**
+   - Comprehensive tutorials and examples.
+   - Covers a wide range of topics with hands-on coding.
+   - Includes quizzes and practice problems.
+   - [Course Link](https://www.geeksforgeeks.org/c-programming-language/)
+
+7. **Tutorialspoint: "C Programming Tutorial"**
+   - In-depth tutorials covering all aspects of C programming.
+   - Includes examples and exercises.
+   - Free to access and use.
+   - [Course Link](https://www.tutorialspoint.com/cprogramming/index.htm)
+
+These courses provide a solid foundation in C programming and are accessible to beginners.
